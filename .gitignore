@@ -1,0 +1,15 @@
+# 数据文件(太大, 不上传)
+data/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
